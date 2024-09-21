@@ -1,0 +1,14 @@
+C:\Users\user\formuladopedro\bin\Debug\net8.0\formuladopedro.exe
+C:\Users\user\formuladopedro\bin\Debug\net8.0\formuladopedro.deps.json
+C:\Users\user\formuladopedro\bin\Debug\net8.0\formuladopedro.runtimeconfig.json
+C:\Users\user\formuladopedro\bin\Debug\net8.0\formuladopedro.dll
+C:\Users\user\formuladopedro\bin\Debug\net8.0\formuladopedro.pdb
+C:\Users\user\formuladopedro\obj\Debug\net8.0\formuladopedro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\formuladopedro\obj\Debug\net8.0\formuladopedro.AssemblyInfoInputs.cache
+C:\Users\user\formuladopedro\obj\Debug\net8.0\formuladopedro.AssemblyInfo.cs
+C:\Users\user\formuladopedro\obj\Debug\net8.0\formuladopedro.csproj.CoreCompileInputs.cache
+C:\Users\user\formuladopedro\obj\Debug\net8.0\formuladopedro.dll
+C:\Users\user\formuladopedro\obj\Debug\net8.0\refint\formuladopedro.dll
+C:\Users\user\formuladopedro\obj\Debug\net8.0\formuladopedro.pdb
+C:\Users\user\formuladopedro\obj\Debug\net8.0\formuladopedro.genruntimeconfig.cache
+C:\Users\user\formuladopedro\obj\Debug\net8.0\ref\formuladopedro.dll
